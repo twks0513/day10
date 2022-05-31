@@ -21,7 +21,7 @@ public class QuizTestClass04 {
 		
 		return sum;
 	}
-	
+	 
 	public void print(ArrayList al,int sum) {//출력메소드
 		System.out.println(al.get(0)+"+"+al.get(1)+"="+sum);
 	}
